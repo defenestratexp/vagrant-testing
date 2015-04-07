@@ -1,0 +1,7 @@
+# Vagrant temp Files/Directories #
+##################################
+*.Vagrant
+*.vagrant
+.Vagrant/
+.vagrant/
+*.*.swp
